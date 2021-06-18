@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">my sos</string>
+    <string name="crime_report_portal">CRIME REPORT PORTAL</string>
+    <string name="register">REGISTER</string>
+    <string name="aadhaar">Aadhaar</string>
+    <string name="spot_address">Spot Address</string>
+    <string name="criminal_gender">Criminal Gender :</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="describe_crime_activity">Describe Crime Activity</string>
+    <string name="registrar_mobile_number">Registrar Mobile Number</string>
+    <string name="resgistrar_name">Resgistrar Name</string>
+    <string name="no_of_criminals">No.Of.criminals</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="medic">medic</string>
+    <string name="fire">fire</string>
+    <string name="loacation">loacation</string>
+    <string name="chatbot">chatbot</string>
+    <string name="sos">sos</string>
+
+    <string name="goback">goback</string>
+    <string name="fv">fv</string>
+    <string name="medi">Medi</string>
+    <string name="fire2">Fire</string>
+    <string name="nearby_station">nearby</string>
+    <string name="face_verification">Face Verification</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_status">status</string>
+</resources>
